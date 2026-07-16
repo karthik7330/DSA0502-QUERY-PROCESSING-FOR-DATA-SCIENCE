@@ -1,0 +1,9 @@
+OrderID,ProductID,ProductName,Category,Quantity,Price,Returned
+101,P101,Laptop,Electronics,1,55000,False
+102,P102,Mouse,Electronics,2,500,True
+103,P103,Chair,Furniture,1,3500,False
+104,P102,Mouse,Electronics,1,500,True
+105,P104,Table,Furniture,1,6000,False
+106,P105,Keyboard,Electronics,2,1200,False
+107,P101,Laptop,Electronics,1,55000,True
+108,P103,Chair,Furniture,2,3500,True
