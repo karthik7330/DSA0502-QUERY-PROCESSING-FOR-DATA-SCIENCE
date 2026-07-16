@@ -1,0 +1,9 @@
+SupplierID,DeliveryID,ExpectedDays,ActualDays,SupplierName,Delayed,Efficiency
+S101,D101,5,4,ABC Suppliers,False,125.0
+S101,D102,6,7,ABC Suppliers,True,85.71428571428571
+S102,D103,4,4,XYZ Traders,False,100.0
+S102,D104,3,5,XYZ Traders,True,60.0
+S103,D105,5,5,Global Supply,False,100.0
+S103,D106,6,6,Global Supply,False,100.0
+S104,D107,4,6,Fast Delivery,True,66.66666666666666
+S104,D108,5,5,Fast Delivery,False,100.0
