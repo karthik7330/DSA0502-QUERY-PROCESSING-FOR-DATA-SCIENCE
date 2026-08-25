@@ -1,0 +1,11 @@
+Region,Manager,Salesman,Sale_Amount
+North,John,A,12000
+North,John,B,15000
+South,Mary,C,18000
+South,Mary,D,22000
+East,David,E,11000
+East,David,F,14000
+West,Sara,G,20000
+West,Sara,H,17000
+North,John,A,13000
+South,Mary,C,19000
