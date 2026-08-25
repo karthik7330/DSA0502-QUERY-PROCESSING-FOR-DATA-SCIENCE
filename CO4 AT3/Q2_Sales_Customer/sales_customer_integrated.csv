@@ -1,0 +1,26 @@
+Customer_ID,Customer_Name,Age,Location,Transaction_ID,Purchase_Frequency,Discount,Purchase_Amount,Customer_Segment
+C001,Arun Kumar,22,Chennai,T001,3,5,4500,Low Value
+C001,Arun Kumar,22,Chennai,T016,4,5,6000,Low Value
+C002,Priya Sharma,28,Bangalore,T002,5,10,8200,Medium Value
+C002,Priya Sharma,28,Bangalore,T017,7,12,11000,Medium Value
+C003,Rahul Verma,35,Hyderabad,T003,2,0,6200,Low Value
+C003,Rahul Verma,35,Hyderabad,T018,3,5,7000,Low Value
+C004,Anitha Raj,31,Chennai,T004,4,8,7100,Low Value
+C004,Anitha Raj,31,Chennai,T024,5,10,9000,Medium Value
+C005,Suresh Kumar,42,Coimbatore,T005,7,15,12500,Medium Value
+C005,Suresh Kumar,42,Coimbatore,T019,9,20,18000,High Value
+C006,Meena Devi,26,Madurai,T006,3,5,4800,Low Value
+C007,Ravi Chandran,24,Bangalore,T007,6,12,9600,Medium Value
+C008,Karthik Raj,39,Hyderabad,T008,8,20,15000,Medium Value
+C008,Karthik Raj,39,Hyderabad,T020,12,30,28000,High Value
+C009,Divya Menon,29,Chennai,T009,4,10,7600,Medium Value
+C009,Divya Menon,29,Chennai,T025,6,12,9800,Medium Value
+C010,Mohan Das,46,Coimbatore,T010,10,25,22000,High Value
+C010,Mohan Das,46,Coimbatore,T021,11,25,25000,High Value
+C011,Sneha Reddy,33,Hyderabad,T011,5,10,9100,Medium Value
+C012,Vijay Kumar,27,Chennai,T012,3,5,5200,Low Value
+C013,Asha Devi,41,Madurai,T013,9,18,16800,High Value
+C013,Asha Devi,41,Madurai,T022,8,18,15500,High Value
+C014,Rohan Singh,23,Bangalore,T014,2,0,3300,Low Value
+C015,Lakshmi Priya,36,Chennai,T015,6,15,11200,Medium Value
+C015,Lakshmi Priya,36,Chennai,T023,7,15,13000,Medium Value

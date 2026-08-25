@@ -1,0 +1,2 @@
+Customer_ID,Customer_Name,Age,Location,Transaction_ID,Purchase_Frequency,Discount,Purchase_Amount,Customer_Segment,Purchase_Outlier
+C008,Karthik Raj,39,Hyderabad,T020,12,30,28000,High Value,True
