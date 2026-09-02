@@ -1,0 +1,7 @@
+Patient_ID,Name,Age,Gender,Phone,Email,Diagnosis
+101,  rahul KUMAR ,35,M,+91-9876543210,rahul@gmail.com,Diabetes
+102,Priya sharma,28,female,9876543211,priya@gmail.com,Hypertension
+103,John Doe,45,M,9876543216,john.doe@example.com,Asthma
+104,Anu,22,F,,anu@example.com,Fever
+105,Test Invalid,121,female,9876543217,test@example.com,Fever
+106,Another Invalid,30,female,12345,,Cold
